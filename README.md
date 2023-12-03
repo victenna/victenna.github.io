@@ -9,4 +9,4 @@ Career Stages
 3.	In his retirement, Victor Rabinovich has been teaching children mathematics and the basics of Python programming. He created a website for children's programming education, pythonkidsgo.ca, which features over 60 practical Python projects using the Pygame library, as well as projects in Scratch. He has published books for children: "School Math Problems with Real-Life Applications," 2015, and "Python Lessons for Kids: Animation Projects with Turtle Graphics," 2021. Additionally, he manages a Facebook page titled "I like Scratch and Python coding."
    victenna/victenna.github.io/blob/main/cat.png
 
-   ![Alt text for the image]
+   ![Alt text for the image](https://github.com/victenna/victenna.github.io/blob/main/cat.png)
