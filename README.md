@@ -10,3 +10,4 @@ Career Stages
    victenna/victenna.github.io/blob/main/cat.png
 
   ![Alt text for the image](https://github.com/victenna/victenna.github.io/blob/main/cat.png)
+  theme: jekyll-theme-minimal
