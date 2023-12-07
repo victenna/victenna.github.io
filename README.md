@@ -1,6 +1,4 @@
 ![Victor](https://victenna.github.io/Header2.png)
-#![Victor](https://victenna.github.io/Victor.png)
-
 Victor Rabinovich is an inventor, scientist, engineer, and professor in the field of antenna technology, particularly phased and adaptive antenna arrays. 
 
 Date of Birth: 
