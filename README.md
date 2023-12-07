@@ -45,7 +45,5 @@ https://github.com/victenna/Patent-text
 10.	System and method for activating electromechanically systems using flexible intelligent radio frequency modules, EP2300272B1, publication date 2023-01-04
 11.	LIN bus remote control system, US 8,334,758 B2, publication date 2012-18-12
 
+![Alt text for the image](https://victenna.github.io/cat.png)
 
-  #![Alt text for the image](https://github.com/victenna/victenna.github.io/blob/main/cat.png)
-  ![Alt text for the image](https://victenna.github.io/cat.png)
-  #theme: jekyll-theme-minimal
