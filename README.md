@@ -15,7 +15,9 @@ Career Stages
 
 Scientifical and technical papers, published in open sources:
 The sources cited below can be found at the following address: 
+
 https://github.com/victenna/Papers-text
+
 1.	Statistical evaluation of some parameters of antenna arrays with electronic beam control, Journal of Radio Engineering and Electronics,1971,12, pp.2188-2192 (in Russian version).
 2.	Radiation pattern of an antenna array with a given number of faulty elements, Journal of Radio Engineering and Electronics,1973, 4, pp.713-716 (in Russian version). 
 3.	Statistical parameters of the antenna array’s radiation pattern in the presence of phase errors caused by the discretization of phase shifters, Journal of Radio Engineering and Electronics,1975, 4, pp.708-714 (in Russian version).  
@@ -34,7 +36,9 @@ https://github.com/victenna/Papers-text
 
 Patents, published in open sources:
 The sources cited below can be found at the following address:
+
 https://github.com/victenna/Patent-text
+
 1.	Device for measuring the amplitude-phase distribution of the field of a phased antenna array, patent #SU1552132A1 (Russian,1989) 
 2.	Method for measuring the parameters of a phased antenna array, patent # SU1515125A1 (Russian,1987)
 3.	Device for measuring the parameters of a phased antenna array, patent # SU1318941A1(Russian,1985)
