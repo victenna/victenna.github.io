@@ -16,7 +16,7 @@ Career Stages
 Scientifical and technical papers, published in open sources:
 The sources cited below can be found at the following address: 
 
-https://github.com/victenna/Papers-text
+[Papers](https://github.com/victenna/Papers-text)
 
 1.	Statistical evaluation of some parameters of antenna arrays with electronic beam control, Journal of Radio Engineering and Electronics,1971,12, pp.2188-2192 (in Russian version).
 2.	Radiation pattern of an antenna array with a given number of faulty elements, Journal of Radio Engineering and Electronics,1973, 4, pp.713-716 (in Russian version). 
