@@ -37,7 +37,7 @@ The sources cited below can be found at the following address:
 Patents, published in open sources:
 The sources cited below can be found at the following address:
 
-https://github.com/victenna/Patent-text
+[Patents](https://github.com/victenna/Patent-text)
 
 1.	Device for measuring the amplitude-phase distribution of the field of a phased antenna array, patent #SU1552132A1 (Russian,1989) 
 2.	Method for measuring the parameters of a phased antenna array, patent # SU1515125A1 (Russian,1987)
