@@ -1,6 +1,8 @@
 Victor Rabinovich is an inventor, scientist, engineer, and professor in the field of antenna technology, particularly phased and adaptive antenna arrays. 
+
 Date of Birth: 
 1946, Moscow, Russia.
+
 Education: 
 Moscow Institute of Physics and Technology (1964-1970), MSc in Electronic Engineering. He was awarded a Ph.D. in the field of electromagnetics and antennas. 
 
