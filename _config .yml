@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://victenna.github.io" # ваш GitHub username
 
 # Настройки темы
-theme: minima
+#theme: minima
 #theme: jekyll-theme-minimal
 
 # Пользовательские настройки
